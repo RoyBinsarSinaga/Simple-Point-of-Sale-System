@@ -1,4 +1,4 @@
-package com.wide.task2.domain;
+package com.wide.task.domain;
 
 public class CashPayment extends Payment {
     private double cashInHand;

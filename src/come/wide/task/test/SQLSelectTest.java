@@ -1,4 +1,4 @@
-package come.wide.task2.test;
+package come.wide.task.test;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

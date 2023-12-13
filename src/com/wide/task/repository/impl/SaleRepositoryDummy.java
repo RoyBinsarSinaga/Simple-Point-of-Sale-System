@@ -11,10 +11,10 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Date;
 
+import com.wide.task.domain.Item;
+import com.wide.task.domain.Sale;
+import com.wide.task.domain.SaleItem;
 import com.wide.task.repository.SaleRepository;
-import com.wide.task2.domain.Item;
-import com.wide.task2.domain.Sale;
-import com.wide.task2.domain.SaleItem;
 
 public class SaleRepositoryDummy implements SaleRepository {
 

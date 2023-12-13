@@ -1,6 +1,6 @@
 package com.wide.task.repository;
 
-import com.wide.task2.domain.Sale;
+import com.wide.task.domain.Sale;
 
 public interface SaleRepository {
 	public Sale findByNumber(int saleNumber);

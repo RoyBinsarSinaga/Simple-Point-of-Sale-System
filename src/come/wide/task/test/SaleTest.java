@@ -1,4 +1,4 @@
-package come.wide.task2.test;
+package come.wide.task.test;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -12,12 +12,12 @@ import java.sql.Statement;
 import java.util.Date;
 import java.util.List;
 
-import com.wide.task2.domain.CashPayment;
-import com.wide.task2.domain.Item;
-import com.wide.task2.domain.Payment;
-import com.wide.task2.domain.QrisPayment;
-import com.wide.task2.domain.Sale;
-import com.wide.task2.domain.SaleItem;
+import com.wide.task.domain.CashPayment;
+import com.wide.task.domain.Item;
+import com.wide.task.domain.Payment;
+import com.wide.task.domain.QrisPayment;
+import com.wide.task.domain.Sale;
+import com.wide.task.domain.SaleItem;
 
 public class SaleTest {
     public static void main(String[] args) {

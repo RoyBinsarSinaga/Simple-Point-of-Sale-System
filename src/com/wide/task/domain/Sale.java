@@ -1,4 +1,4 @@
-package com.wide.task2.domain;
+package com.wide.task.domain;
 
 import java.util.ArrayList;
 import java.util.Date;

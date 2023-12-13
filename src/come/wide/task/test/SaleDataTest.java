@@ -1,14 +1,14 @@
-package come.wide.task2.test;
+package come.wide.task.test;
 
 import java.util.List;
 
+import com.wide.task.domain.CashPayment;
+import com.wide.task.domain.Payment;
+import com.wide.task.domain.QrisPayment;
+import com.wide.task.domain.Sale;
+import com.wide.task.domain.SaleItem;
 import com.wide.task.repository.SaleRepository;
 import com.wide.task.repository.impl.SaleRepositoryDummy;
-import com.wide.task2.domain.CashPayment;
-import com.wide.task2.domain.Payment;
-import com.wide.task2.domain.QrisPayment;
-import com.wide.task2.domain.Sale;
-import com.wide.task2.domain.SaleItem;
 
 public class SaleDataTest {
 
