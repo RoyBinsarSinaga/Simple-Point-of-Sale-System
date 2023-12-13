@@ -1,4 +1,4 @@
-package come.wide.task.test;
+package com.wide.task.test;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
