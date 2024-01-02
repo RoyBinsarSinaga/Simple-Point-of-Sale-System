@@ -1,0 +1,4 @@
+234; Suitcase; Storage; 50000; 1
+313; Vase ; Interior; 2300; 0
+56;Bomber;Outer;75000;1
+76; Decker;Safety;34000;0
